@@ -1,6 +1,6 @@
 # Treine-me
 
-Praticando.
+Praticando o básico durante o curso de React JS realizado na plataforma Rocketseat.
 
 ## Tecnologias Utilizadas
 
